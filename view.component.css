@@ -1,0 +1,10 @@
+.example-card {
+    max-width: 400px;
+    background-color: rgba(197, 160, 37, 0.747);
+  }
+  
+  .example-header-image {
+    /*background-image: url('/assets/bags.jpg');*/
+    background-size: cover;
+  }
+  

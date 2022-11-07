@@ -1,0 +1,18 @@
+.mat-stepper-horizontal {
+    margin-top: 8px;
+  }
+  
+  .mat-form-field {
+    margin-top: 16px;
+    
+  }
+  .mat-stepper{
+      background-color: rgb(19, 166, 202);
+      background-image: url('/assets/onlineshop.jpg');
+  }
+  .close-button{
+    float: right;
+    top:-24px;
+    right:-24px;
+  }
+ 
